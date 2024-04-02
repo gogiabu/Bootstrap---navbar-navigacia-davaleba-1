@@ -1,0 +1,32 @@
+.navbar_1{
+    border-bottom: 1px solid gray;
+}
+.bootstrap_logo{
+    width: 30px;
+    height: 24px;
+}
+.home{
+    border-radius: 10px;
+}
+.navbar_2{
+    border: 2px solid grey;
+}
+.navbar_3{
+    margin-top: 100px;
+    border-top: 1px solid gray;
+}
+.bootstrap_logo3{
+    width: 40px;
+    height: 34px;
+}
+.borde{
+    border-bottom: 1px solid gray;
+}
+.navbar_4{
+    border-bottom: 1px solid grey;
+}
+.dropdown_image{
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+}
